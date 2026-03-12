@@ -50,15 +50,15 @@ Professionals comparing commute times
 
 5. Core Features
 
-1. Location Search
+- Location Search
 
 Users can search for neighborhoods by city, ZIP code, or address.
 
-2. Crime Data Visualization
+- Crime Data Visualization
 
 Users will be able to view crime statistics using charts or heatmaps.
 
-3. Neighborhood Metrics Dashboard
+- Neighborhood Metrics Dashboard
 
 The dashboard will display important metrics such as:
 
@@ -72,20 +72,19 @@ Transportation access
 
 Population demographics
 
-4. Commute Time Estimation
+- Commute Time Estimation
 
 Users can calculate commute times between a selected neighborhood and a workplace location.
 
-6. Community Reviews
+- Community Reviews
 
 Users will be able to leave feedback or reviews about neighborhoods.
 
-7. Saved Neighborhoods
+- Saved Neighborhoods
 
 Registered users can save neighborhoods they want to compare later.
 
 6. Technologies to Be Used
-Frontend
 
 React or Next.js
 
