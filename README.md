@@ -54,7 +54,6 @@ Professionals comparing commute times
 
 Users can search for neighborhoods by city, ZIP code, or address.
 
-
 2. Crime Data Visualization
 
 Users will be able to view crime statistics using charts or heatmaps.
