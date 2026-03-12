@@ -30,8 +30,6 @@ The main objectives of this project are to:
 
 Develop a web platform that aggregates neighborhood-related data.
 
-Provide interactive maps to visualize neighborhood insights.
-
 Allow users to search and compare neighborhoods easily.
 
 Display safety and community metrics in a clear dashboard format.
@@ -50,22 +48,18 @@ Families evaluating neighborhoods for safety and schools
 
 Professionals comparing commute times
 
-Real estate researchers or analysts
-
 5. Core Features
+
 1. Location Search
 
 Users can search for neighborhoods by city, ZIP code, or address.
 
-2. Interactive Map
 
-A map interface will display neighborhoods with visual indicators for safety and other metrics.
-
-3. Crime Data Visualization
+2. Crime Data Visualization
 
 Users will be able to view crime statistics using charts or heatmaps.
 
-4. Neighborhood Metrics Dashboard
+3. Neighborhood Metrics Dashboard
 
 The dashboard will display important metrics such as:
 
@@ -79,7 +73,7 @@ Transportation access
 
 Population demographics
 
-5. Commute Time Estimation
+4. Commute Time Estimation
 
 Users can calculate commute times between a selected neighborhood and a workplace location.
 
@@ -98,21 +92,11 @@ React or Next.js
 
 HTML5 / CSS3
 
-Tailwind CSS or Bootstrap
-
-Map visualization libraries
-
-Backend
-
 Node.js with Express
 
 REST API architecture
 
-Database
-
 PostgreSQL or MongoDB
-
-APIs
 
 Possible external APIs include:
 
@@ -123,10 +107,6 @@ Public crime data APIs
 School rating datasets
 
 Transportation or commute APIs
-
-Deployment
-
-Cloud deployment such as Vercel, Render, or AWS
 
 7. System Architecture
 
